@@ -1,0 +1,4 @@
+Graine/10
+grain de lin/50
+Graine de tournesol/100
+friandise/200
