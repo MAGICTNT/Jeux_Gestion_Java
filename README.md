@@ -4,7 +4,7 @@
 
 <h3>Théme du code</h3>
 
-    Le jeu a comme base Hamsters en folie ( jeux de 89), <br>une personne vous lègue son élevage de hamsters et vous devais faire après chaque mois 40% de bénéfice.
+    <p>Le jeu a comme base Hamsters en folie ( jeux de 89), une personne vous lègue son élevage de hamsters et vous devais faire après chaque mois 40% de bénéfice.</p>
     
 <HR>
     
