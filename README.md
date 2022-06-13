@@ -5,10 +5,9 @@
 <p>Le jeu a comme base Hamsters en folie ( jeux de 89).</p>
 <p>Une personne vous lègue son élevage de hamsters et vous devais faire après chaque mois 40% de bénéfice.</p>
 
+    <hr>
     
 <h3>Todo liste</h3>
-
-<hr>
 
 <ul>
     <li><a href="#">Création d'un menu de navigation pour l'utilisateur</a></li>
