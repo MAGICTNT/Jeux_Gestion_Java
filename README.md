@@ -8,6 +8,8 @@
     
 <h3>Todo liste</h3>
 
+<hr>
+
 <ul>
     <li><a href="#">Création d'un menu de navigation pour l'utilisateur</a></li>
     <li><a href="#">Création d'un menu avec les régles du jeux</a></li>
