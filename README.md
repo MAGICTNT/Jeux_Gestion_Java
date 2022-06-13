@@ -1,7 +1,13 @@
 <h1 style="text-align: center">Jeux de gestion en java</h1>
 
-<h3>Théme du code</h3>
 <HR>
+
+<h3>Théme du code</h3>
+
+    Le jeu a comme base Hamsters en folie ( jeux de 89), une personne vous lègue son élevage de hamsters et vous devais faire après chaque mois 40% de bénéfice.
+    
+<HR>
+    
 <h3>Todo liste</h3>
 
 <ul>
