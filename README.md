@@ -1,5 +1,7 @@
 <h1 style="text-align: center">Jeux de gestion en java</h1>
 
+<h3>Théme du code</h3>
+
 <h3>Todo liste</h3>
 
 <ul>
